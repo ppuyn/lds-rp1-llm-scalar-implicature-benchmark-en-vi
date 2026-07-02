@@ -13,3 +13,9 @@ The study evaluates three main aspects in LLMs:
 - Answer–reason alignment: whether correct answers are also supported by faithful reasoning.
 
 The benchmark compares English and Vietnamese data, different open-weight LLMs, and limited prompting strategies, including direct classification and reasoning-oriented prompts. The results aim to show how language, model architecture, and prompt design affect pragmatic inference and explanation quality.
+
+## Project Progress
+
+This research project is tracked using GitHub Projects.
+
+The full interactive tracker is available here: **[[RP1 Research Progress Tracker](https://github.com/users/ppuyn/projects/2)]**.
